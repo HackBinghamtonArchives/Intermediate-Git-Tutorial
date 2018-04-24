@@ -2,6 +2,9 @@
 
 Repo for a HackBU workshop on some Intermediate Git practices, just a step above `git add`, `git commit`, `git push`, and `git status`.
 
+## For Windows Users
+Download this app for using a Git Terminal in Windows: [https://gitforwindows.org/](https://gitforwindows.org/)
+
 ## For more information,
 
 You can learn more about git through this [link](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) and this [link](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/).
