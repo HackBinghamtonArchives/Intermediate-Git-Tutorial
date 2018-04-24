@@ -1,6 +1,6 @@
 # git stash
 
-temporarily stashes the changes you've made in your working directory, so you can work on something else
+Temporarily stashes the changes you've made in your working directory, so you can work on something else
 
 ## Usage
 ```bash
